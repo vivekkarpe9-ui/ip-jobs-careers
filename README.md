@@ -5,7 +5,7 @@ A responsive static landing page for job seekers and employers.
 ## Contact details
 - Email: vivekkarpe9@gmail.com
 - WhatsApp: +91 79998 68978
-- Service areas: Bhopal, Indore, Jabalpur, Seoni, all Madhya Pradesh and India-wide enquiries.
+- Service areas: Bhopal, Indore, Jabalpur, mandideep, all Madhya Pradesh and India-wide enquiries.
 
 ## Publish free with GitHub Pages
 1. Open the repository's **Settings**.
